@@ -1,1 +1,34 @@
-
+{
+  "posts": [
+    {
+    "id": 1,
+    "title": "مطلب تستی 1",
+    "img": "https://i.picsum.photos/id/140/536/354.jpg?hmac=6DR6dNVwKNG_j1OeVto6gRHHfkxwnE5JEtDaWl6qkDg",
+    "info": "این مطلب تستی 1 است."
+    },
+    {
+    "id": 2,
+    "title": "مطلب تستی 2",
+    "img": "https://i.picsum.photos/id/237/536/354.jpg?hmac=i0yVXW1ORpyCZpQ-CknuyV-jbtU7_x9EBQVhvT5aRr0",
+    "info": "این مطلب تستی 2 است."
+    },
+    {
+    "id": 3,
+    "title": "مطلب تستی 3",
+    "img": "https://cdn.dribbble.com/users/4827602/screenshots/14519314/restoweb_4x.jpg",
+    "info": "این مطلب تستی 3 است."
+    },
+    {
+    "id": 4,
+    "title": "مطلب تستی 4",
+    "img": "https://s.tmimgcdn.com/scr/800x500/55100/cattle-farm-responsive-website-template_55159-original.jpg",
+    "info": "این مطلب تستی 4 است."
+    },
+    {
+    "id": 5,
+    "title": "مطلب تستی 5",
+    "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/5_landscaping-website-design.jpg",
+    "info": "این مطلب تستی 5 است."
+    }
+]
+}
