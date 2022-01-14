@@ -166,6 +166,12 @@
   "title": "وبسایت موبایل فروشی",
   "img": "https://i.picsum.photos/id/140/536/354.jpg?hmac=6DR6dNVwKNG_j1OeVto6gRHHfkxwnE5JEtDaWl6qkDg",
   "info": "وبسایت مربوط به موبایل فروشی است!"
+  },
+   {
+  "id": 7,
+  "title": "وبسایت مانتو فروشی",
+   "img": "https://i.picsum.photos/id/237/536/354.jpg?hmac=i0yVXW1ORpyCZpQ-CknuyV-jbtU7_x9EBQVhvT5aRr0",
+  "info": "وبسایت مربوط به مانتو فروشی است!"
   }
 ]
 }
