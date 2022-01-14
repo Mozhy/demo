@@ -63,60 +63,70 @@
     "id": 1,
     "body": "نظر تستی 1 است.",
     "postId": 1,
+    "workId":0,
     "name": "بدون نام"
   },
   {
     "id": 2,
     "body": "نظر تستی 2 است.",
     "postId": 1,
+     "workId":0,
     "name": "مژگان اکابری"
   },
   {
     "id": 3,
     "body": "نظر تستی 3 است.",
     "postId": 2,
+    "workId":0,
     "name": "هدی افشار"
   },
   {
     "id": 4,
     "body": "نظر تستی 4 است.",
     "postId": 2,
+    "workId":0,
     "name": "مصطفی کریمی"
   },
   {
     "id": 5,
     "body": "نظر تستی 5 است.",
     "postId": 2,
+    "workId":0,
     "name": "علی ابراهیمی"
   },
   {
     "id": 6,
     "body": "نظر تستی 6 است.",
     "postId": 3,
+     "workId":0,
     "name": "مریم ملکی"
   },
   {
     "id": 7,
     "body": "نظر تستی 7 است.",
     "postId": 3,
+     "workId":0,
     "name": "تکتم هاشمی"
   },
   {
     "id": 8,
     "body": "نظر تستی 8 است.",
     "postId": 4,
+     "workId":0,
     "name": "بدون نام"
   },
   {
     "id": 9,
     "body": "نظر تستی 9 است.",
-    "postId": 5,
+    "postId": 0,
+     "workId":1,
     "name": "رضا محمودی"
   },
   {
     "id": 10,
     "body": "نظر تستی 10 است.",
-    "postId": 5,
+    "postId": 0,
+     "workId":1,
     "name": "بدون نام"
   }
 ],
