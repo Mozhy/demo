@@ -1,66 +1,64 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "مطلب تستی 1",
-      "img": "https://i.picsum.photos/id/140/536/354.jpg?hmac=6DR6dNVwKNG_j1OeVto6gRHHfkxwnE5JEtDaWl6qkDg",
-      "info": "این مطلب تستی 1 است."
-    },
-    {
-      "id": 2,
-      "title": "مطلب تستی 2",
-      "img": "https://i.picsum.photos/id/237/536/354.jpg?hmac=i0yVXW1ORpyCZpQ-CknuyV-jbtU7_x9EBQVhvT5aRr0",
-      "info": "این مطلب تستی 2 است."
-    },
-    {
-      "id": 3,
-      "title": "مطلب تستی 3",
-      "img": "https://cdn.dribbble.com/users/4827602/screenshots/14519314/restoweb_4x.jpg",
-      "info": "این مطلب تستی 3 است."
-    },
-    {
-      "id": 4,
-      "title": "مطلب تستی 4",
-      "img": "https://s.tmimgcdn.com/scr/800x500/55100/cattle-farm-responsive-website-template_55159-original.jpg",
-      "info": "این مطلب تستی 4 است."
-    },
-    {
-      "id": 5,
-      "title": "مطلب تستی 5",
-      "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/5_landscaping-website-design.jpg",
-      "info": "این مطلب تستی 5 است."
-    }
-  ],
-  "works": [
-  {
-    "id": 1,
-    "title": "وبسایت گل فروشی",
-    "img": "https://cdn.motocms.com/src/868x580/63700/63718-original-1200.jpg",
-    "info": "وبسایت مربوط به یک گل فروشی است!"
-  },
-  {
-    "id": 2,
-    "title": "وبسایت کتاب فروشی",
-    "img": "https://s.tmimgcdn.com/scr/800x500/94800/bookday-clean-and-rapid-online-bookstore-website-design-woocommerce-theme_94894-2-original.png",
-    "info": "وبسایت مربوط به یک کتابفروشی است!"
-  },
-  {
-    "id": 3,
-    "title": "وبسایت رستوران سنتی",
-    "img": "https://cdn.dribbble.com/users/4827602/screenshots/14519314/restoweb_4x.jpg",
-    "info": "وبسایت مربوط به یک رستوران سنتی است!"
-  },
-  {
-    "id": 4,
-    "title": "وبسایت گاوداری",
-    "img": "https://s.tmimgcdn.com/scr/800x500/55100/cattle-farm-responsive-website-template_55159-original.jpg",
-    "info": "وبسایت مربوط به دنیای گاوها است!"
-  },
-  {
-    "id": 5,
-    "title": "وبسایت خدمات باغبانی",
-    "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/5_landscaping-website-design.jpg",
-    "info": "وبسایت مربوط به خدمات باغبانی است!"
-  }
+  "comments": [
+{
+"id": 1,
+"body": "نظر تستی 1 است.",
+"postId": 1,
+"name": "بدون نام"
+},
+{
+"id": 2,
+"body": "نظر تستی 2 است.",
+"postId": 1,
+"name": "مژگان اکابری"
+},
+{
+"id": 3,
+"body": "نظر تستی 3 است.",
+"postId": 2,
+"name": "هدی افشار"
+},
+{
+"id": 4,
+"body": "نظر تستی 4 است.",
+"postId": 2,
+"name": "مصطفی کریمی"
+},
+{
+"id": 5,
+"body": "نظر تستی 5 است.",
+"postId": 2,
+"name": "علی ابراهیمی"
+},
+{
+"id": 6,
+"body": "نظر تستی 6 است.",
+"postId": 3,
+"name": "مریم ملکی"
+},
+{
+"id": 7,
+"body": "نظر تستی 7 است.",
+"postId": 3,
+"name": "تکتم هاشمی"
+},
+{
+"id": 8,
+"body": "نظر تستی 8 است.",
+"postId": 4,
+"name": "بدون نام"
+},
+{
+"id": 9,
+"body": "نظر تستی 9 است.",
+"postId": 5,
+"name": "رضا محمودی"
+},
+{
+"id": 10,
+"body": "نظر تستی 10 است.",
+"postId": 5,
+"name": "بدون نام"
+},
 ]
 }
